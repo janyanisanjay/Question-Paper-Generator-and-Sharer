@@ -10,6 +10,6 @@ Students can view the shared paper.
 
 Admin can add teacher, students, create group of students and can add and manage questions of respected subjects.
 
-(Main)
+
 Where Genetic Algorithm is used to generate the fittest paper using population, mutation and cross-over.
 
